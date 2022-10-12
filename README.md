@@ -1,2 +1,2 @@
-# ini hanya untuk praktikum </br>
-# source sumber by kaggle
+ini hanya untuk praktikum </br>
+source code by kaggle
